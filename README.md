@@ -14,16 +14,16 @@ The following **required** functionality is completed:
 * [ ] Can navigate to the Article Details screen
 * [ ] Article images are downloaded and displayed using Glide
 
-The following **optional** features are implemented:![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/10f37e78-5c26-473f-9fb3-4d0a12c97e35)
+The following **optional** features are implemented:
 
 
 * [ ] View elements are styled in the .xml files
 
 ## Video
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: ![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/2e542977-c70d-4af0-9123-99e644da8fa6)
 
-<img src='![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/2e542977-c70d-4af0-9123-99e644da8fa6)' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' alt='Video Walkthrough' />
 
 
 <!-- Replace this with whatever GIF tool you used! -->
