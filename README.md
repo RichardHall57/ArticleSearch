@@ -21,10 +21,9 @@ The following **optional** features are implemented:
 
 ## Video
 
-Here's a walkthrough of implemented features: ![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/2e542977-c70d-4af0-9123-99e644da8fa6)
+Here's a walkthrough of implemented features:
 
-<img src='' title='Video Walkthrough' alt='Video Walkthrough' />
-
+![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/2e542977-c70d-4af0-9123-99e644da8fa6)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [(https://getkap.co/)] for Windows
