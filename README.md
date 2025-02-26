@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/B33uISt' title='Video Walkthrough' alt='Video Walkthrough' />
-
-https://i.imgur.com/Zkq7z21.gif
+<img src='https://imgflip.com/gif/9liqsu' title='Video Walkthrough' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [(https://getkap.co/)] for Windows
