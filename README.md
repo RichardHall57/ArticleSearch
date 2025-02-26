@@ -14,7 +14,8 @@ The following **required** functionality is completed:
 * [ ] Can navigate to the Article Details screen
 * [ ] Article images are downloaded and displayed using Glide
 
-The following **optional** features are implemented:
+The following **optional** features are implemented:![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/10f37e78-5c26-473f-9fb3-4d0a12c97e35)
+
 
 * [ ] View elements are styled in the .xml files
 
