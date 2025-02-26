@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/fWCjYq8.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='![Kapture 2025-02-25 at 23 39 05](https://github.com/user-attachments/assets/2e542977-c70d-4af0-9123-99e644da8fa6)' title='Video Walkthrough' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [(https://getkap.co/)] for Windows
